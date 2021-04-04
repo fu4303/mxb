@@ -55,7 +55,7 @@
     "sanitize-html": "^2.3.0",
     "svg-sprite": "^1.5.0",
     "twitter": "^1.7.1",
-    "webpack": "^4.44.1",
+    "webpack": "^4.46.0",
     "workbox-cli": "^6.0.2"
   },
   "devDependencies": {
